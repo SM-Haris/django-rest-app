@@ -1,0 +1,13 @@
+django>=4.0.0,<5.0.0
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+rest_framework_simplejwt
+djangorestframework-simplejwt
+psycopg2
+django-filter
+djangorestframework-bulk
+pytest
+pytest-django
+concurrent-log-handler
